@@ -12,7 +12,7 @@ public class cancelpage extends HttpServlet {
 		    throws ServletException, IOException{
 			try{
 				
-				res.setContentType("text/html");
+				res.setContentType("text/ html");
 				PrintWriter out=res.getWriter();
 				try
 				{
